@@ -60,7 +60,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>Assignment</finalName>
+		
 	</build>
 
 </project>
